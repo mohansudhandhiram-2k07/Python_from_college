@@ -1,3 +1,4 @@
+#vowel or consonant
 alphabet = input("Enter a letter: ").lower()
 
 if not alphabet.isalpha() or len(alphabet) != 1:

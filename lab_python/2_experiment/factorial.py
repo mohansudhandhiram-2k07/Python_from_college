@@ -1,3 +1,4 @@
+#finding factorial
 number = int(input("ENTER THE NUMBER: "))
 factorial = 1
 while number !=0:
